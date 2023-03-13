@@ -2,3 +2,7 @@
    background-color: #5A67D8 !important;
    background-image: none  !important;
 }
+
+a, input[type='button'].link-like-button{
+   color: #5A67D8 !important;
+}
