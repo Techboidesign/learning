@@ -1,4 +1,4 @@
 .button{
-   background-color: #5A67D8;
-   background-image: none;
+   background-color: #5A67D8 !important;
+   background-image: none  !important;
 }
